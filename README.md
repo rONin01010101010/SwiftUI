@@ -13,32 +13,8 @@ A simple iOS application built with SwiftUI that calculates Body Mass Index (BMI
    - User presses the Calculate button to perform calculation (1 point)
    - Uses the formula: BMI = weight / (height × height)
 
-3. **Result Display**
-   - Results are displayed in a label starting with "BMI = " shown as float (1 point)
-   
-4. **Empty State**
-   - Empty labels should display "–" (1 point)
-   
-5. **Multiple Calculations**
-   - User can press Calculate button multiple times with recalculated values displayed (1 point)
 
-6. **Reset Functionality**
-   - User presses Reset button to clear all displayed values
-   - Input boxes and result label show "–" or no value (1 point)
 
-7. **About Screen**
-   - Second screen displays student ID, full name, and course number (1 point + 2 points)
-
-8. **Code Quality**
-   - Clean, readable, and well-commented code (1 point)
-
-9. **Technology Choice**
-   - Can use Storyboard or SwiftUI (1 point)
-
-### Grading Notes
-- Each Swift file should include a comment with your name and student ID
-- **No comment means no grade**
-- **Project MUST open and compile to be graded**
 
 ---
 
